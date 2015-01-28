@@ -1,0 +1,22 @@
+Criterio de Evaluación:
+
+Estructura general: 2 puntos -> 0,5
+
+Si está escrito en inglés: 2 puntos -> 0
+
+Ejercicios 2, 3, 4: 2 puntos cada uno -> 2+1,5+2
+
+Ejercicio 5: 4 puntos ->1
+
+No te ajustas al formato LNCS como se pedía. Abstract y Resumen significan lo mismo!!
+
+Pones cosas que no son correctas, por ejemplo: "
+
+El algoritmo IDA* es la versión iterativa del algoritmo A*
+
+"
+
+El algoritmo BCA* no es E-admisible!!
+
+No puede ser que PEA* y BCA* expandan exactamente el mismo número de nodos para los valores de C y épsilon elegidos. 
+HAY ALGO QUE NO ESTÁ BIEN. Además deberías probar con más valores de estos parámetros.
