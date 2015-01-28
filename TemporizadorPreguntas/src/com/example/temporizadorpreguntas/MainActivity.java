@@ -9,6 +9,11 @@ import android.widget.Button;
 import android.widget.Chronometer;
 import android.widget.Toast;
 
+/**
+ * 
+ * @author Luiso
+ *
+ */
 public class MainActivity extends Activity implements Chronometer.OnChronometerTickListener {
 	Chronometer cronometro1;
 	Chronometer cronometro2;
